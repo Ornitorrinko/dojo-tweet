@@ -24,7 +24,7 @@
     "lodash": "^4.16.1",
     "moment": "^2.14.1",
     "mongoose": "^4.8.5",
-    "morgan": "~1.8.1",
+    "morgan": ">=1.9.1",
     "node-rsa": "^0.4.2",
     "numeral": "^1.5.3",
     "ornito-route-handler": "^1.0.3",
